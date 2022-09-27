@@ -1199,7 +1199,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "solana-starter"
+name = "solana_starter"
 version = "0.1.0"
 dependencies = [
  "anchor-lang",
